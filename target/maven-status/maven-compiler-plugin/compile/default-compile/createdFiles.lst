@@ -1,0 +1,4 @@
+com/mx/unit/test/adapter/OrderAdapter.class
+com/mx/unit/test/presentation/OrderPresentation.class
+com/mx/unit/test/adapterImpl/OrderAdapterImpl.class
+com/mx/unit/test/vo/Order.class
